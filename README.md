@@ -10,5 +10,5 @@
 <a href="https://www.gwangyulee.com/p/td-x-cm-additivesynth.html" target="_blank">additiveSynth</a>    
 
 ### Audiovisual
-<a href="https://www.gwangyulee.com/p/td-x-cm-spectroscopegeo2.html" target="_blank">spectroscopeGeo1</a>    
+<a href="https://www.gwangyulee.com/p/td-x-cm-spectroscopegeo1.html" target="_blank">spectroscopeGeo1</a>    
 <a href="https://www.gwangyulee.com/p/td-x-cm-spectroscopegeo2.html" target="_blank">spectroscopeGeo2</a>    
